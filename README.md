@@ -1,8 +1,10 @@
 ![banner](https://github.com/user-attachments/assets/91fb358e-83b3-4f80-a668-987e6b8d9bda)
 
 # 💫 About Me:
-👋 Hi there! I'm a Fullstack developer with expertise in Next.js, React.js, HTML, CSS, and Tailwind CSS. I love crafting visually stunning and functional websites with a keen eye for UI/UX design.
-Here's my portfolio: subhambanerjee.vercel.app
+👋 Hi there! I'm a Fullstack developer with expertise in Next.js, React.js and Tailwind CSS. I love crafting visually stunning and functional websites with a keen eye for UI/UX design.
+
+Here's my portfolio:
+subhambanerjee.vercel.app
 
 <div style="display:flex; align-items:center">
   <img align="right" alt="Coding" width="350" src='https://github.com/user-attachments/assets/46c5c1da-56c1-47cf-9af5-3bd672dc6e29'/>
